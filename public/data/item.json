@@ -2,39 +2,39 @@
   "itemData1": [
     {
       "itemId": 1,
-      "itemImage": "http://localhost:8000/1.png",
-      "itemName": "이더시스 오 드 퍼퓸",
-      "itemType": "시트러스를 함유한 제품 3종"
+      "itemImage": "http://13.125.137.138:8000/1.png",
+      "itemName": "리무브",
+      "itemType": "부드러운 오일 제형의 아이 메이크업 리무브"
     },
     {
       "itemId": 2,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/1HJpIFP45gfGprqgIUGFoa/b8f8fbfb33852472b8024b7c3c089a00/Aesop_Fragrance_Rozu_Eau_de_Parfum_50mL_Web_Large_1000x977px.png",
-      "itemName": "로즈 오 드 퍼퓸",
-      "itemType": "상쾌한 바디 케어 듀오"
+      "itemImage": "http://13.125.137.138:8000/2.png",
+      "itemName": "파슬리 씨드 페이셜 클렌징 오일",
+      "itemType": "깨끗하게 닦아주는 오일 타입의 클렌저"
     },
     {
       "itemId": 3,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/2ct0ouUr0ao2RJ6ZJS4uJn/951049b3301a0c82f4f1260e6951f8fb/Aesop_Fragrance_Hwyl_Eau_de_Parfum_50mL_Web_Large_1000x977px.png",
-      "itemName": "휠 오 드 퍼퓸",
-      "itemType": "인기 많은 핸드와 바디케어 필수품"
+      "itemImage": "http://13.125.137.138:8000/3.png",
+      "itemName": "퓨리파잉 페이셜 크림 클렌저",
+      "itemType": "촉촉하게 가꿔 주는 크림 클렌저"
     },
     {
       "itemId": 4,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/YfKPiRyqXVuhgnmFUiXCr/a6aa01cefd748da784557d1c385560bb/Aesop_Fragrance_Marrakech_Eau_de_Parfum_50mL_Web_Large_1000x977px.png",
-      "itemName": "마라케시 오 드 퍼퓸",
-      "itemType": "대부분의 피부 타입, 특히 도시 거주자에게 적합1"
+      "itemImage": "http://13.125.137.138:8000/4.png",
+      "itemName": "페뷸러스 페이스 클렌저",
+      "itemType": "오일 타입의 클렌저"
     },
     {
       "itemId": 5,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/qzQJp9yc2X8yXTzF5XkIw/134896cdc592495f19b50fd15b74d185/Aesop_Fragrance_Tacit_Eau_de_Parfum_50mL_Web_Large_1000x977px.png",
-      "itemName": "테싯 오 드 퍼퓸",
-      "itemType": "시트러스를 함유한 제품 3종"
+      "itemImage": "http://13.125.137.138:8000/5.png",
+      "itemName": "파슬리 씨드 페이셜 클렌저",
+      "itemType": "젤 클렌저"
     },
     {
       "itemId": 6,
-      "itemImage": "https://images.ctfassets.net/u1nb1km7t5q7/3GGxqNtcnVfyzLw5OETc7z/b8c4b400861ede1d9cd8ad2d3b9191ce/Aesop_Fragrance_Eremia_Eau_de_Parfum_50mL_Web_Large_684x668px.png",
-      "itemName": "에레미아 오 드 퍼퓸",
-      "itemType": "상쾌한 바디 케어 듀오"
+      "itemImage": "http://13.125.137.138:8000/6.png",
+      "itemName": "어메이징 페이스 클렌저",
+      "itemType": "피부의 균형을 잡아주는 데일리 클렌저"
     }
   ],
   "itemData2": [
@@ -78,39 +78,39 @@
   "itemData3": [
     {
       "itemId": 1,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/bQ1x5fJAgkqs2zOybK7OP/c89650fa01d1e84798f2edf9c0de1668/Aesop_Hand_Resurrection_Aromatique_Hand_Wash_Refill_500mL_B500BT13RFS_Web_Medium_694x860px.png",
-      "itemName": "레저렉션 아로마틱 핸드 워시",
-      "itemType": "오렌지, 로즈마리, 라벤더 오일을 함유한 부드러운 핸드 워시"
+      "itemImage": "http://13.125.137.138:8000/7.png",
+      "itemName": "퓨리파잉 페이셜 엑스폴리언트 페이스트",
+      "itemType": "피부를 매끄럽게 클렌징 해주는 크림 베이스 클렌저"
     },
     {
       "itemId": 2,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/1btCo7KAkwfrPEwqoEo81O/3bc2b301641ea817e6bb3767ba6ee3ed/Aesop-Body-Resurrection-Aromatique-Hand-Balm-75mL-medium.png",
-      "itemName": "레저렉션 아로마틱 핸드 밤",
-      "itemType": "지친 손과 큐티클에 풍부한 수분을 공급해주는 향긋한 보태니컬 핸드 밤"
+      "itemImage": "http://13.125.137.138:8000/8.png",
+      "itemName": "티 트리 리프 페이셜 엑스폴리언트",
+      "itemType": "티 트리 리프, 너트 쉘, 클레이를 함유한 파우더 타입의 각질 관리제"
     },
     {
       "itemId": 3,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/4pviH5sN6VtcFNWH6uy6xJ/9b1d0e1c1ed3ce6d367542c989b8579d/Aesop-Body-Geranium-Leaf-Body-Balm-100mL-Hybris-Large-843x1000px.png",
-      "itemName": "제라늄 리프 바디 밤",
-      "itemType": "향기로운 시트러스 추출물을 함유한 바디 밤"
+      "itemImage": "http://13.125.137.138:8000/9.png",
+      "itemName": "파슬리 씨드 클렌징 마스크",
+      "itemType": "클레이 베이스의 딥 클렌징 마스크"
     },
     {
       "itemId": 4,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/2Cskr0yrDfnSe9SXBIVwFn/11d5ac76eecc83d47cd4a9245f48af60/Aesop-Body-A-Rose-By-Any-Other-Name-Body-Cleanser-100mL-Hybris-Medium-653x752px.png",
-      "itemName": "에이 로즈 바이 애니 아더 네임 바디 클렌저",
-      "itemType": "부드러우면서 꼼꼼한 세정을 전하는 향기로운 클렌징 젤"
+      "itemImage": "http://13.125.137.138:8000/10.png",
+      "itemName": "프림로즈 페이셜 클렌징 마스크",
+      "itemType": "클레이 타입의 클렌징 마스크"
     },
     {
       "itemId": 5,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/5YfIiP4m06sFvUuixkot3k/6884fdedf26ca8a17d341ba0769c7fcf/Aesop_Body_Protective_Body_Lotion_SPF50_Asia_EU_150mL_Web_Large_835x962px.png",
-      "itemName": "프로텍티브 바디 로션 SPF 50",
-      "itemType": "상쾌한 아로마로 피부에 가볍게 흡수되는 바디 전용 자외선 차단제"
+      "itemImage": "http://13.125.137.138:8000/11.png",
+      "itemName": "컨트롤",
+      "itemType": "효과적으로 진정시켜주는 순한 스팟 트리트먼트"
     },
     {
       "itemId": 6,
-      "itemImage": "https://www.aesop.com/u1nb1km7t5q7/2uJrcHNJgy7avz2ZDPfDgE/68fa08bbf2ccea2a16c67b7b1cc46d11/Aesop-Body-Geranium-Leaf-Body-Scrub-180mL-large.png",
-      "itemName": "제라늄 리프 바디 스크럽",
-      "itemType": "피부를 깨끗하게 클렌징하고 빈틈없이 매끄럽게 관리해서 수분 공급"
+      "itemImage": "http://13.125.137.138:8000/12.png",
+      "itemName": "카모마일 컨센트레이트 안티 블레미쉬 마스크",
+      "itemType": "딥 클렌징 마스크"
     }
   ]
 }
